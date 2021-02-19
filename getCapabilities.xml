@@ -137,7 +137,7 @@
 				<Title>mapbiomas_c5_mata_atlantica_1994_jf</Title>
 				<Abstract>GH:mapbiomas_c5_mata_atlantica_1994_jf ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/cassis-debora/UniClima/releases/download/Map_Download/mapbiomas_c5_mata_atlantica_1994_jf.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-43.687029629263215" miny="-22.000193758024736" maxx="-43.144302020317234" maxy="-21.5175060147611"></LatLonBoundingBox>
